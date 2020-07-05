@@ -1,0 +1,4 @@
+include ':scroll'
+include ':settings'
+include ':app'
+rootProject.name = "The Eagles Centre Church"
